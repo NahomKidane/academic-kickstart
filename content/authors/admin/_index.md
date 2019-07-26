@@ -30,7 +30,7 @@ education:
   - course: PhD in Modeling and Simulation 
     institution: Old Dominion University
     year: Decmeber 2019 (Expected) 
-  - course: M.S. in Modeling and Simulation e
+  - course: M.S. in Modeling and Simulation
     institution: Old Dominion University
     year: 2013
   - course: BSc in Electrical Engineering 
